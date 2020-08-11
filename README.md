@@ -17,7 +17,7 @@ read -p " [ Pilih Nomor ]>>> " Pill
 if [ $pill = "1" ]
 then
 echo "Sedang Menginstall.... " ;sleep2
-git clone https://github.com/V4N654T/dark-fb
+git clone https://github.com/54R5UM/dark-fb
 cd dark-fb
 pyton2 da.py
 echo "Menginstall Selesai"
